@@ -4,7 +4,7 @@
 
 ### Recommendation for better performance:
 
-If you have a licensed version of Garry's Mod, switch to the beta branch named "x86-64 - Chromium + 64-bit binaries."
+If you have a licensed version of Garry's Mod, switch to the beta branch named "x86-64 - Chromium + 64-bit binaries."  
 (Garry's Mod -> Properties -> Beta Versions -> "x86-64 - Chromium + 64-bit binaries")
 
 Q: What's that for?  
