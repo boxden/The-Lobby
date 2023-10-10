@@ -2,7 +2,7 @@
 
 + Drag&Drop the "phys_lobby" into "addons" folder
 
-### Recommendation for better performance:
+### Recommendation for better performance
 
 If you have a licensed version of Garry's Mod, switch to the beta branch named "x86-64 - Chromium + 64-bit binaries"  
 (Garry's Mod -> Properties -> Beta Versions -> "x86-64 - Chromium + 64-bit binaries")
@@ -21,7 +21,7 @@ If you have a non-licensed version of the game, you will have to suffer lags
 
 + Скопировать "phys_lobby" в папку "addons"
 
-### Рекомендация для лучшей производительности:
+### Рекомендация для лучшей производительности
 
 Если у вас лицензионная версия Garry's Mod, то выберите бета-ветку под названием "x86-64 - Chromium + 64-bit binaries"  
 (Garry's Mod -> Свойства -> Бета-Версии -> "x86-64 - Chromium + 64-bit binaries")
