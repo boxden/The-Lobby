@@ -1,21 +1,21 @@
 ## Installation [EN]
 
-+ Drag&Drop the "phys_lobby" folder into the "addons"
++ Drag&Drop the "phys_lobby" into the "addons" folder.
 
 ### Recommendation for better performance:
 
-If you have a licensed version of garry's mod game, put a beta branch called "x86-64 - Chromium + 64-bit binaries"  
+If you have a licensed version of Garry's Mod, switch to the beta branch named "x86-64 - Chromium + 64-bit binaries."
 (Garry's Mod -> Properties -> Beta Versions -> "x86-64 - Chromium + 64-bit binaries")
 
 Q: What's that for?  
-A: It's to support the improved "VPhysics Jolt" physics engine
+A: To support the improved physics engine "VPhysics Jolt".
 
-### Installing VPhysics-Jolt
+### VPhysics-Jolt Installation
 
-+ Download the exact version of the engine you need by following [this link](https://github.com/Joshua-Ashton/VPhysics-Jolt/releases/)
-+ Downloaded archive unpacked in a game directory Garry's Mod
++ Download the required version of the engine from [this link](https://github.com/Joshua-Ashton/VPhysics-Jolt/releases/)
++ Extract the downloaded archive into folder bin in Garry's Mod game directory.
 
-If you have a non-licensed version of the game, you will have to suffer lags. ¯\_(ツ)_/¯
+If you have a non-licensed version of the game, you will have to suffer lags.
 
 ## Установка [RU]
 
