@@ -1,4 +1,18 @@
-## Installation [EN]
+## Information
+
+The Lobby is a destructible map. You have the ability to destroy absolutely everything, right down to the props.  
+Destructibility is simulated by a physics engine called Digital Molecular Matter, aka DMM.
+
+The map was originally created by [robixn](https://www.youtube.com/watch?v=N7MYttLnHpA) in 2010 year.
+
+For a comfortable game we recommend the Chromium x64 version of the game along with the installed enhanced physics engine VPhysics Jolt.
+
+Map name: phys_lobby  
+Bind to restore: bind <key> gmod_admin_cleanup  
+For example i used "Delete" key  
+You can also simply type gmod_admin_cleanup in the console
+
+## Installation
 
 + Drag&Drop the "phys_lobby" into "addons" folder
 
@@ -17,21 +31,7 @@ A: To support the improved physics engine "VPhysics Jolt"
 
 If you have a non-licensed version of the game, you will have to suffer lags
 
-## Установка [RU]
+## Acknowledgements
 
-+ Скопировать "phys_lobby" в папку "addons"
-
-### Рекомендация для лучшей производительности
-
-Если у вас лицензионная версия Garry's Mod, то выберите бета-ветку под названием "x86-64 - Chromium + 64-bit binaries"  
-(Garry's Mod -> Свойства -> Бета-Версии -> "x86-64 - Chromium + 64-bit binaries")
-
-В: Для чего это нужно?  
-О: Для поддержки улучшенного физического движка "VPhysics Jolt"
-
-### Установка VPhysics-Jolt
-
-+ Скачиваете нужную версию движка, по [этой ссылке](https://github.com/Joshua-Ashton/VPhysics-Jolt/releases/)
-+ Распакуйте скачанный архив в папку "bin" директории Garry's Mod
-
-Если у вас нелицензионная версия игры, то придется терпеть лаги
+Highly recommend VPhysics Jolt for best overall game performance!
+Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for providing a great addon on destructible props for [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) and [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409)
