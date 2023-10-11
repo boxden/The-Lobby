@@ -8,7 +8,7 @@ The map was originally created by [robixn](https://www.youtube.com/watch?v=N7MYt
 For a comfortable game we recommend the Chromium x64 version of the game along with the installed enhanced physics engine VPhysics Jolt.
 
 Map name: phys_lobby  
-Bind to restore: bind <key> gmod_admin_cleanup  
+Bind to restore: bind `<key>` gmod_admin_cleanup  
 For example i used "Delete" key  
 You can also simply type gmod_admin_cleanup in the console
 
