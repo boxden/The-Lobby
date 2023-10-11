@@ -1,6 +1,15 @@
+// Hello and welcome to los pollos hermanos family
+// My name is Gustavo, but you can call me Gus
+
+// Soundscape created: 02.Oct.2022
+// Last edited: 29.Nov.2022
+
+// Change log:
+// +added new random ambient's
+
 web.lobby.inside
 {
-	dsp	14 		//type room
+	dsp	14 		// type room
 	dsp_volume	2
 	fadetime	1.5	// second
 	playlooping
@@ -8,7 +17,6 @@ web.lobby.inside
 		volume	.08
 		pitch	100
 		soundlevel	SNDLVL_30dB
-	//	position	0
 		wave	maps/fakedmmlobby/ambient/lobby.wav
 	}
 }
@@ -16,13 +24,36 @@ web.lobby.inside
 web.lobby.outside
 {
 	dsp	1
+	dsp_spatial 20 // new
 	dsp_volume	1
 	fadetime	1.5
 	playlooping
 	{
-		volume	0.05
+		volume	.05
 		pitch	100
 		soundlevel	SNDLVL_30dB
 		wave	maps/fakedmmlobby/ambient/street.wav
+	}
+	playrandom
+	{
+		time 1,50
+		volume .04
+		pitch 90,105
+		position random
+		rndwave
+		{
+			wave maps/fakedmmlobby/ambient/rndwave/sirens.ogg
+		}
+	}
+	playrandom
+	{
+		time 10,50
+		volume .05,.4
+		pitch 90,104
+		position random
+		rndwave
+		{
+			wave maps/fakedmmlobby/ambient/rndwave/signalization.ogg
+		}
 	}
 }
