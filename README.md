@@ -1,3 +1,5 @@
+![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
+
 ## Information
 
 The Lobby is a destructible map. You have the ability to destroy absolutely everything, right down to the props.  

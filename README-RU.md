@@ -1,3 +1,5 @@
+![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
+
 ## Информация
 
 The Lobby - это разрушаемая карта. У вас есть возможность разрушить абсолютно все, вплоть до пропов  
