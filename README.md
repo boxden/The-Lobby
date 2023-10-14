@@ -2,7 +2,7 @@
 
 ## Information
 
-The Lobby is a destructible map. You have the ability to destroy absolutely everything, right down to the props.  
+The Lobby is a destructible map for Garry's Mod. You have the ability to destroy absolutely everything, right down to the props.  
 Destructibility is simulated by a physics engine called Digital Molecular Matter, aka DMM.
 
 The map was originally created by [robixn](https://www.youtube.com/watch?v=N7MYttLnHpA) in 2010 year.
