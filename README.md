@@ -1,5 +1,3 @@
-![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
-
 ## Information
 
 The Lobby is a destructible map for Garry's Mod. You have the ability to destroy absolutely everything, right down to the props.  
@@ -39,3 +37,7 @@ If you have a non-licensed version of the game, you will have to suffer lags
 
 Highly recommend VPhysics Jolt for best overall game performance!
 Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for providing a great addon on destructible props for [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) and [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409)
+
+## Images
+
+![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)

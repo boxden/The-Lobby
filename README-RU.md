@@ -1,5 +1,3 @@
-![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
-
 ## Информация
 
 The Lobby - это разрушаемая карта для Garry's Mod. У вас есть возможность разрушить абсолютно все, вплоть до пропов  
@@ -39,3 +37,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 Настоятельно рекомендую VPhysics Jolt для _наилучшей производительности_ игры в целом!  
 Большая благодарность [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) за предоставление прекрасного аддона на разрушаемые пропы для [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) и [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409)
+
+## Изображения
+
+![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
