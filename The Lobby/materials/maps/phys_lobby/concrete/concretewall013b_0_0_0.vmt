@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/CONCRETE/CONCRETEWALL013B.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/phys_lobby/c0_0_0"
-	}
-}

@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/WOOD/WOODFLOOR006B.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/phys_lobby/c0_0_0"
-	}
-}
