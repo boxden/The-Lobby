@@ -41,3 +41,58 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 ## Images
 
 ![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
+
+---
+
+## Fixed
+
+* Fixed trigger_hurt forgiveness not resetting damage correctly
+* Increased limit of language.GetPhrase output to 4000 bytes, from 1000 - if limit is hit, truncate the string, instead of outputting an empty string
+* Fixed a crash due to BSP ZIP hash collision
+
+## Removed
+
+* Make Entity:InitializeAsClientEntity do nothing and error no halt when used. The function was useless and would often crash when used inappropriately
+
+<style>
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+</style>
+
+## Fixed
+
+* **Изменение 1**
+* **Изменение 2**
+* **...**
+
+## Removed
+
+* **Изменение 1**
+* **Изменение 2**
+* **...**
