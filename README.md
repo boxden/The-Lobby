@@ -41,7 +41,3 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 ## Images
 
 ![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
-
-<div style="background-color: lightgray; padding: 10px;">
-  <p style="color: blue; font-size: 18px;">Это стилизованный текст.</p>
-</div>
