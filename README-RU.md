@@ -57,18 +57,20 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 - [ ] Звонок от Mr. Oizo завершается корректно
 - [ ] Холмистая территория на улице
 - [ ] Атмосфера на улице более насыщена
-- [ ] Главный вход переработан (проредизайнен)
+- [ ] Главный вход переработан [#9](https://github.com/boxden/The-Lobby/issues/9)
 - [ ] Расширенная игровая зона
-- [ ] Электроснабжение здания переосмыслено
+- [ ] Электроснабжение здания переосмыслено [#8](https://github.com/boxden/The-Lobby/issues/8)
+- [ ] Модели `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенные текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
 
 ### Исправлено
 
 - [x] Статические реквизиты не летают в воздухе, например [#7](https://github.com/boxden/The-Lobby/issues/7)
 - [x] Все текстуры, невидимые для игрока, были закрашены `nodraw`
 - [x] Денежный паллет `moneypallet_washerdryer` не издаёт ошибки в консоли [#5](https://github.com/boxden/The-Lobby/issues/5)
+- [ ] Музыка завершается при уничтожении радиоприемника [#3](https://github.com/boxden/The-Lobby/issues/3)
 
 ### Удалено
 
-- [ ] Оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun`
+- [ ] Оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
 - [x] Денежный паллет `moneypallet_washerdryer_chunk1`
 - [ ] Музыка с радио [#1](https://github.com/boxden/The-Lobby/issues/1)
