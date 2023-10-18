@@ -48,9 +48,9 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 - [ ] Функциональный лифт
 - [ ] Скайбокс (Skybox)
-- [ ] На первом этаже добавлены новые комнаты
+- [ ] Комнаты на первом этаже
 - [ ] Лестничная площадка
-- [ ] Новая музыка с радио
+- [ ] Музыка с радио
 
 ### Улучшения
 
@@ -71,6 +71,5 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ### Удалено
 
-- [ ] Оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
-- [x] Денежный паллет `moneypallet_washerdryer_chunk1`
+- [ ] Неиспользуемые оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
 - [ ] Музыка с радио [#1](https://github.com/boxden/The-Lobby/issues/1)
