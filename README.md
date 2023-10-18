@@ -1,22 +1,3 @@
-<style>
-
-body {
-  font-family: sans-serif;
-  line-height: 1.5;
-  color: #FF0000;
-  font-size: 20px;
-  background-color: #000000;
-  text-align: center;
-  border: 1px solid black;
-}
-
-h1, h2, h3 {
-  font-weight: bold;
-  margin-top: 0;
-}
-
-</style>
-
 ## Information
 
 The Lobby is a destructible map for Garry's Mod. You have the ability to destroy absolutely everything, right down to the props.  
@@ -60,3 +41,7 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 ## Images
 
 ![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
+
+<div style="background-color: lightgray; padding: 10px;">
+  <p style="color: blue; font-size: 18px;">Это стилизованный текст.</p>
+</div>
