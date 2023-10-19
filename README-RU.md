@@ -42,21 +42,35 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
 
-## Cписок изменений
+## Будущий список изменений
 
 ### Добавлено
 
-* Работоспособный лифт
+- [ ] Функциональный лифт
+- [ ] Скайбокс (Skybox)
+- [ ] Комнаты на первом этаже
+- [ ] Лестничная площадка
+- [ ] Музыка с радио
 
 ### Улучшения
 
-* Звонок от Mr.Oizo
+- [ ] Звонок от Mr. Oizo завершается корректно
+- [ ] Холмистая территория на улице
+- [ ] Атмосфера на улице более насыщена
+- [ ] Главный вход переработан [#9](https://github.com/boxden/The-Lobby/issues/9)
+- [ ] Расширенная игровая зона
+- [ ] Электроснабжение здания переосмыслено [#8](https://github.com/boxden/The-Lobby/issues/8)
+- [ ] Модели `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенные текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
+- [ ] Здания снаружи получили новый внешний вид
 
 ### Исправлено
 
-* Статические реквезиты не парят в воздухе
-* Закрашены все невидимые для игрока
+- [x] Статические реквизиты не летают в воздухе, например [#7](https://github.com/boxden/The-Lobby/issues/7)
+- [x] Все текстуры, невидимые для игрока, были закрашены `nodraw`
+- [x] Денежный паллет `moneypallet_washerdryer` не издаёт ошибки в консоли [#5](https://github.com/boxden/The-Lobby/issues/5)
+- [ ] Музыка завершается при уничтожении радиоприемника [#3](https://github.com/boxden/The-Lobby/issues/3)
 
 ### Удалено
 
-* Оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun`
+- [x] Неиспользуемые оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
+- [ ] Музыка с радио [#1](https://github.com/boxden/The-Lobby/issues/1)
