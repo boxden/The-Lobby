@@ -1,4 +1,4 @@
-$modelname "nseven/vending_machine.mdl"
+$modelname "web/vending_machine.mdl"
 
 $staticprop
 
@@ -18,8 +18,8 @@ $cdmaterials "models\props\cs_office\"
 
 $texturegroup "skinfamilies"
 {
-	{""}
-	{""}
+	{"vending_machine"}
+	{"vending_machine_off"}
 }
 
 $attachment "placementOrigin" "static_prop" 0 2.32 -42 rotate 0 0 0
