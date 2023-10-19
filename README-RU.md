@@ -61,6 +61,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 - [ ] Расширенная игровая зона
 - [ ] Электроснабжение здания переосмыслено [#8](https://github.com/boxden/The-Lobby/issues/8)
 - [ ] Модели `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенные текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
+- [ ] Здания снаружи получили новый внешний вид
 
 ### Исправлено
 
@@ -71,5 +72,5 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ### Удалено
 
-- [ ] Неиспользуемые оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
+- [x] Неиспользуемые оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
 - [ ] Музыка с радио [#1](https://github.com/boxden/The-Lobby/issues/1)
