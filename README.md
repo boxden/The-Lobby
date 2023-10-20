@@ -42,7 +42,7 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 
 ![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
 
-## Future list of changes
+## Future changelist
 
 ### Features
 
