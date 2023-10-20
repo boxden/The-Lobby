@@ -55,7 +55,7 @@ $collisiontext
 {
 	break 
 	{
-		"model" "nseven/debris/exit_ceiling_gib1.mdl"
+		"model" "web/debris/exit_ceiling_gib1.mdl"
 		"debris" "1"
 		"fadetime" "10"
 		"health" "100"
