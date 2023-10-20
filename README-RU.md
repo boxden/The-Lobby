@@ -67,7 +67,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 - [x] Статические реквизиты не летают в воздухе, например [#7](https://github.com/boxden/The-Lobby/issues/7)
 - [x] Все текстуры, невидимые для игрока, были закрашены `nodraw`
 - [x] Модели `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенные текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
-- [x] Денежный паллет `moneypallet_washerdryer` не издаёт ошибки в консоли [#5](https://github.com/boxden/The-Lobby/issues/5)
+- [x] Денежный паллет `moneypallet_washerdryer.mdl` не издаёт ошибки в консоли [#5](https://github.com/boxden/The-Lobby/issues/5)
 - [ ] Музыка завершается при уничтожении радиоприемника [#3](https://github.com/boxden/The-Lobby/issues/3)
 
 ### Удалено

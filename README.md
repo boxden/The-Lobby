@@ -41,3 +41,36 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 ## Images
 
 ![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
+
+## Future list of changes
+
+### Features
+
+- [ ] Functional elevator
+- [ ] Add skybox
+- [ ] New rooms on the first floor
+- [ ] Staircase landing
+- [ ] New radiostation music from the radio
+
+### Improvements
+
+- [ ] Hilly terrain on the street
+- [ ] Soundscape outside is more vibrant
+- [ ] Redesign main entrance [#9](https://github.com/boxden/The-Lobby/issues/9)
+- [ ] Expanded gaming area
+- [ ] The building's electrical supply has been reimagined [#8](https://github.com/boxden/The-Lobby/issues/8)
+- [ ] Other buildings have received a new appearance
+
+### Fixed
+
+- [ ] A call from Mr. Oizo ends properly
+- [x] Static props don't fly in the air, [for example #7](https://github.com/boxden/The-Lobby/issues/7)
+- [x] All textures invisible to the player have been painted with `nodraw`
+- [x] Models `exit_ceiling.mdl` and `vending_machine.mdl` they have disabled textures [#4](https://github.com/boxden/The-Lobby/issues/4)
+- [x] Model `moneypallet_washerdryer.mdl` doesn't generate errors in the console. [#5](https://github.com/boxden/The-Lobby/issues/5)
+- [ ] The music stops when the radio receiver is destroyed [#3](https://github.com/boxden/The-Lobby/issues/3)
+
+### Removed
+
+- [x] Unused weapons `weapon_rpg`, `weapon_357` and `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
+- [ ] Music from the radio [#1](https://github.com/boxden/The-Lobby/issues/1)
