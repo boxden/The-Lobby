@@ -51,6 +51,8 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 - [ ] New rooms on the first floor
 - [ ] Staircase landing
 - [ ] New radiostation music from the radio
+- [ ] Second floor
+- [ ] Basement
 
 ### Improvements
 
