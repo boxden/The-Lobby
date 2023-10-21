@@ -28,7 +28,7 @@ A: To support the improved physics engine "VPhysics Jolt"
 
 ### VPhysics-Jolt Installation
 
-+ Download the required version of the engine from [this link](https://github.com/Joshua-Ashton/VPhysics-Jolt/releases/)
++ Download ZIP archive from [this link](https://git.froggi.es/joshua/vphysics_jolt_gmod_builds)<details><summary>How?</summary></details>
 + Extract the downloaded archive into folder "bin" in Garry's Mod game directory
 
 If you have a non-licensed version of the game, you will have to suffer lags
