@@ -28,7 +28,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ### Установка VPhysics-Jolt
 
-+ Скачать ZIP-архив по [этой ссылке](https://git.froggi.es/joshua/vphysics_jolt_gmod_builds) <details><summary>Как скачать?</summary></details>
++ Скачать ZIP-архив по [этой ссылке](https://git.froggi.es/joshua/vphysics_jolt_gmod_builds) <details> <summary> Как скачать? </summary> ![Как скачать?](https://github.com/boxden/The-Lobby/assets/30258996/c551dc6e-2358-4fce-9295-9c78f7e852e6) </details>
 + Распаковать скачанный архив в папку "bin" директории Garry's Mod
 
 Если у вас нелицензионная версия игры, то придется терпеть лаги
