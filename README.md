@@ -50,7 +50,7 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 - [ ] Add skybox
 - [ ] New rooms on the first floor
 - [ ] Staircase landing
-- [ ] New radiostation music from the radio
+- [ ] New radio station
 - [ ] Second floor
 - [ ] Basement
 
