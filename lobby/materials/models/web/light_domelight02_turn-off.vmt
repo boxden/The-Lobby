@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/web/light_domelight02"
+	"$surfaceprop" "glass"
+	"$selfillum" 0
+}
+
