@@ -1,4 +1,3 @@
-
 "VertexLitGeneric"
 {
 	// Original shader: VertexLitTexture
@@ -8,5 +7,4 @@
 	"$envmap" "env_cubemap"
 	"$envmaptint" "[ .4 .4 .4]"
 	"$envmapmask" "Models/props_lab/monitor02_mask"
-	
 }

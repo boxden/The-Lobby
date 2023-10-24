@@ -3,5 +3,4 @@ VertexLitGeneric
 	"$basetexture"	"models\props\cs_office\water_bottle"
 	"$envmap" "env_cubemap"
 	"$envmapmask" "models\props\cs_office\water_bottle_ref"
-
 }

@@ -3,5 +3,4 @@ VertexLitGeneric
 	"$basetexture"	"models\props\cs_office\trash_can"
 	"$envmap" "env_cubemap"
 	"$envmapmask" "models\props\cs_office\trash_can_ref"
-
 }

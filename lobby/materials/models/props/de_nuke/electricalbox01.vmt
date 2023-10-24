@@ -3,5 +3,4 @@ VertexLitGeneric
 	"$basetexture"	"models\props\de_nuke\electricalbox01"
 	"$envmap" "env_cubemap"
 	"$envmapmask" "models\props\de_nuke\electricalbox01_ref"
-
 }

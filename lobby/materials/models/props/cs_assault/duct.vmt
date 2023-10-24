@@ -3,5 +3,4 @@ VertexLitGeneric
 	"$basetexture"	"models\props\cs_assault\duct"
 	"$envmap" "env_cubemap"
 	"$envmapmask" "models\props\cs_assault\duct_ref"
-
 }

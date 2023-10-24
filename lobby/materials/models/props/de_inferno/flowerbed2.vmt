@@ -3,5 +3,4 @@ VertexLitGeneric
 	"$basetexture"	"models\props\de_tides\flowerbed2"
 	"$alphatest" "1"
 	"$nocull" "1"
-
 }
