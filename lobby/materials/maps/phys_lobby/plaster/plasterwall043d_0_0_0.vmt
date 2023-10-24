@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/PLASTER/PLASTERWALL043D.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/phys_lobby/c0_0_0"
-	}
-}
