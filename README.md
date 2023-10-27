@@ -53,6 +53,7 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 - [ ] New radio station
 - [ ] Second floor
 - [ ] Basement
+- [ ] Bathroom
 
 ### Improvements
 
