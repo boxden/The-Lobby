@@ -1,14 +1,14 @@
-// Created: 02.Oct.2022
-// Last commit: 29.Nov.2022
+// Created: 02 Oct 2022
+// Last commit: 29 Nov 2022
 
 // Change log:
-// + added random ambient's
+// + Added random ambient's
 
 web.lobby.inside
 {
-	dsp	14 		// type room
+	dsp	14 		// Type room
 	dsp_volume	2
-	fadetime	1.5	// second
+	fadetime	1.5	// Def. 1 sec
 	playlooping
 	{
 		volume	.08
@@ -21,7 +21,7 @@ web.lobby.inside
 web.lobby.outside
 {
 	dsp	1
-	dsp_spatial 20 // new
+	dsp_spatial 20 // test
 	dsp_volume	1
 	fadetime	1.5
 	playlooping
