@@ -77,3 +77,5 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 - [x] Неиспользуемые оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
 - [ ] Музыка с радио [#1](https://github.com/boxden/The-Lobby/issues/1)
+
+29 Октября 2023г - Была приобретина GTX 1660 Super 6GB
