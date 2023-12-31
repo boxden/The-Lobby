@@ -9,7 +9,7 @@ For a comfortable game we recommend the Chromium x64 version of the game along w
 
 Map name: phys_lobby  
 Bind to restore: bind `<key>` gmod_admin_cleanup  
-For example i used "Delete" key  
+For example i used "del" key  
 You can also simply type gmod_admin_cleanup in the console
 
 ## Installation
