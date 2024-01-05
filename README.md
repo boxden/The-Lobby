@@ -66,12 +66,12 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 
 ### Fixed
 
-- [ ] A call from Mr. Oizo ends properly
-- [x] Static props don't fly in the air, [for example #7](https://github.com/boxden/The-Lobby/issues/7)
+- [ ] Call from Mr. Oizo ends correctly
+- [x] Static_prop's don't flying, [for example #7](https://github.com/boxden/The-Lobby/issues/7)
 - [x] All textures invisible to the player have been painted with `nodraw`
 - [x] Models `exit_ceiling.mdl` and `vending_machine.mdl` they have disabled textures [#4](https://github.com/boxden/The-Lobby/issues/4)
 - [x] Model `moneypallet_washerdryer.mdl` doesn't generate errors in the console. [#5](https://github.com/boxden/The-Lobby/issues/5)
-- [ ] The music stops when the radio receiver is destroyed [#3](https://github.com/boxden/The-Lobby/issues/3)
+- [ ] Music stops when the radio receiver is destroyed [#3](https://github.com/boxden/The-Lobby/issues/3)
 
 ### Removed
 
