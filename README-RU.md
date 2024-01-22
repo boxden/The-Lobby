@@ -9,7 +9,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 Название карты: phys_lobby  
 Бинд для восстановления карты: bind `<key>` gmod_admin_cleanup  
-Для примера я использую клавишу "Delete"  
+Для примера я использую клавишу "del"  
 Вы так же можете просто ввести gmod_admin_cleanup в консоль
 
 ## Установка
@@ -57,17 +57,17 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ### Улучшения
 
-- [ ] Холмистая территория на улице
-- [ ] Атмосфера на улице более насыщена
+- [ ] Холмистая местность на улице
+- [ ] Атмосфера на улице более насыщенная
 - [ ] Главный вход переработан [#9](https://github.com/boxden/The-Lobby/issues/9)
 - [ ] Расширенная игровая зона
 - [ ] Электроснабжение здания переосмыслено [#8](https://github.com/boxden/The-Lobby/issues/8)
-- [ ] Здания снаружи получили новый внешний вид
+- [ ] Здания снаружи получили новый облик
 
 ### Исправлено
 
 - [ ] Звонок от Mr. Oizo завершается корректно
-- [x] Статические реквизиты не летают в воздухе, например [#7](https://github.com/boxden/The-Lobby/issues/7)
+- [x] Статические пропы не летают в воздухе, например [#7](https://github.com/boxden/The-Lobby/issues/7)
 - [x] Все текстуры, невидимые для игрока, были закрашены `nodraw`
 - [x] Модели `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенные текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
 - [x] Модель `moneypallet_washerdryer.mdl` не создаёт ошибки в консоли [#5](https://github.com/boxden/The-Lobby/issues/5)
@@ -78,4 +78,4 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 - [x] Неиспользуемые оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
 - [ ] Музыка с радио [#1](https://github.com/boxden/The-Lobby/issues/1)
 
-29 Октября 2023г - Была приобретина GTX 1660 Super 6GB
+29 Октября 2023г - Была приобретена GTX 1660 Super 6GB за 3200 лей
