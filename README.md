@@ -14,7 +14,7 @@ You can also simply type gmod_admin_cleanup in the console
 
 ## Installation
 
-+ Download the [latest map version](https://github.com/boxden/The-Lobby/releases/download/phys_lobby/the_lobby_2886996246.7z)
++ Download the [latest map version](https://github.com/boxden/The-Lobby/releases/download/v1.0.1/the_lobby_2886996246.7z)
 
 + Drag&Drop the "phys_lobby" into "addons" folder
 
