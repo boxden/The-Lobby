@@ -14,7 +14,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ## Установка
 
-+ Скачать последнюю [версию карты](https://github.com/boxden/The-Lobby/releases/download/phys_lobby/the_lobby_2886996246.7z)
++ Скачать последнюю [версию карты](https://github.com/boxden/The-Lobby/releases/download/v1.0.1/the_lobby_2886996246.7z)
 
 + Скопировать "phys_lobby" в папку "addons"
 
