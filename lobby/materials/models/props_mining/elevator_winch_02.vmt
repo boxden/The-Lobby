@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$basetexture"	"Models/props_mining/elevator_winch_02"
-//	"$bumpmap"	      "Models/props_mining/elevator_winch_02_normal"
+	"$basetexture"	"Models\props_mining\elevator_winch_02"
+//	"$bumpmap"	      "Models\props_mining\elevator_winch_02_normal"
 
 //	"$phong" "1" //this turns on the phong effect
 //	"$phongexponent"  "20"

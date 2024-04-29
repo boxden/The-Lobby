@@ -1,10 +1,10 @@
 "VertexLitGeneric"
 {
-	"$basetexture"	"Models/props_lab/Monitor_lost"
+	"$basetexture"	"Models\props_lab\Monitor_lost"
 	"$surfaceprop"	"plastic"
 	"$envmap" "env_cubemap"
 	"$envmaptint" "[ .4 .4 .4]"
-	"$envmapmask" "Models/props_lab/monitor02_mask"
+	"$envmapmask" "Models\props_lab\monitor02_mask"
 	"Proxies"
 		{
 			"AnimatedTexture"

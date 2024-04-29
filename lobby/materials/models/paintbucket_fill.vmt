@@ -1,4 +1,4 @@
 VertexLitGeneric
 {
-	"$basetexture"	"models/paintbucket_fill"
+	"$basetexture"	"models\paintbucket_fill"
 }

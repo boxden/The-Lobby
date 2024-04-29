@@ -1,4 +1,4 @@
 VertexLitGeneric
 {
-	"$basetexture"	"models/woodgibs256"
+	"$basetexture"	"models\woodgibs256"
 }

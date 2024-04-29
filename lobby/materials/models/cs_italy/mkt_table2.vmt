@@ -1,6 +1,6 @@
 "vertexlitGeneric"
 {
-	"$baseTexture" "models/cs_italy/mkt_table2"
+	"$baseTexture" "models\cs_italy\mkt_table2"
 	"$surfaceprop" "wood"
-//	"$bumpmap" "models/cs_italy/mkt_table2_normal"
+//	"$bumpmap" "models\cs_italy\mkt_table2_normal"
 }
