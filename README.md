@@ -1,5 +1,7 @@
 [![en](https://img.shields.io/badge/lang-English%20%F0%9F%87%AC%F0%9F%87%A7-white)](README.md)
 [![ru](https://img.shields.io/badge/%D1%8F%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%F0%9F%87%B7%F0%9F%87%BA-white)](README-RU.md)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/boxden/The-Lobby/total)
+![GitHub Release](https://img.shields.io/github/v/release/boxden/The-Lobby)
 
 ## Information
 
@@ -12,7 +14,7 @@ For a comfortable game we recommend the Chromium x64 version of the game along w
 
 Map name: phys_lobby  
 Bind to restore: bind `<key>` gmod_admin_cleanup  
-For example i used "del" key  
+For example, i used "del" key  
 You can also simply type gmod_admin_cleanup in the console
 
 ## Installation
@@ -38,7 +40,7 @@ If you have a non-licensed version of the game, you will have to suffer lags
 
 ## Acknowledgements
 
-Highly recommend VPhysics Jolt for best overall game performance!  
+Highly recommend VPhysics Jolt for best performance!  
 Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for providing a great addon on destructible props for [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) and [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409)
 
 ## Media
@@ -73,8 +75,9 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 - [x] Static_prop's don't flying, [for example #7](https://github.com/boxden/The-Lobby/issues/7)
 - [x] All textures invisible to the player have been painted with `nodraw`
 - [x] Models `exit_ceiling.mdl` and `vending_machine.mdl` they have disabled textures [#4](https://github.com/boxden/The-Lobby/issues/4)
-- [x] Model `moneypallet_washerdryer.mdl` doesn't generate errors in the console. [#5](https://github.com/boxden/The-Lobby/issues/5)
+- [x] Model `moneypallet_washerdryer.mdl` doesn't generate errors in the console [#5](https://github.com/boxden/The-Lobby/issues/5)
 - [ ] Music stops when the radio receiver is destroyed [#3](https://github.com/boxden/The-Lobby/issues/3)
+- [x] Conflict materials with addon Half-Life 2 HD Enhancement Project [#16](https://github.com/boxden/The-Lobby/issues/16)
 
 ### Removed
 
