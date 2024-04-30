@@ -1,0 +1,18 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" 					"maps\phys_lobby\wood\woodfloor007a"
+	"$surfaceprop" 					"wood"
+
+
+	 "LightmappedGeneric_DX9"
+	{
+		"$bumpmap" 					"maps\phys_lobby\wood\woodfloor007a_normal"
+		"$envmap" 					"env_cubemap"
+		"$normalmapalphaenvmapmask" 1
+		"$envmapcontrast" 			1
+		"$envmapsaturation" 		.7
+		"$envmaptint" 				"[ .72 .72 .72 ]"
+	//	"$fresnelreflection" 		".3"
+	}
+}
