@@ -1,3 +1,8 @@
+#### 30 APR 2024:
+- Move `phys_lobby.vmf` to maps folder
+- Move some materials from GMod
+- Update README.md & README-RU.md
+
 #### 29 ARP 2024:
 - Update Hammer++ `Build 8864` -> `Build 8865`
 - Change path to all materials to materials\maps\phys_lobby\ #16 
