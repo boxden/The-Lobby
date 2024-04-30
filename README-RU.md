@@ -12,7 +12,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 Название карты: phys_lobby  
 Бинд для восстановления карты: bind `<key>` gmod_admin_cleanup  
-Для примера я использую клавишу "del"  
+Например, я использую клавишу "del"  
 Вы так же можете просто ввести gmod_admin_cleanup в консоль
 
 ## Установка
@@ -38,7 +38,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ## Благодарность
 
-Настоятельно рекомендую VPhysics Jolt для _наилучшей производительности_ игры в целом!  
+Настоятельно рекомендую VPhysics Jolt для наилучшей производительности!  
 Большая благодарность [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) за предоставление прекрасного аддона на разрушаемые пропы для [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) и [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409)
 
 ## Изображения
@@ -75,6 +75,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 - [x] Модели `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенные текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
 - [x] Модель `moneypallet_washerdryer.mdl` не создаёт ошибки в консоли [#5](https://github.com/boxden/The-Lobby/issues/5)
 - [ ] Музыка завершается при уничтожении радиоприемника [#3](https://github.com/boxden/The-Lobby/issues/3)
+- [x] Конфликт материалов с аддоном Half-Life 2 HD Enhancement Project [#16](https://github.com/boxden/The-Lobby/issues/16)
 
 ### Удалено
 
