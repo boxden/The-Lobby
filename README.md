@@ -71,7 +71,7 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 
 ### Fixed
 
-- [x] Call from Mr. Oizo ends correctly
+- [x] Call from Mr. Oizo ends correctly #14
 - [x] Static_prop's don't flying, [for example #7](https://github.com/boxden/The-Lobby/issues/7)
 - [x] All textures invisible to the player have been painted with `nodraw`
 - [x] Models `exit_ceiling.mdl` and `vending_machine.mdl` they have disabled textures [#4](https://github.com/boxden/The-Lobby/issues/4)
