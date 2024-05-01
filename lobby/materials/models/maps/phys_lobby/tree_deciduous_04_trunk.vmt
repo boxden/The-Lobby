@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models\maps\phys_lobby\tree_deciduous_04_trunk"
+	"$surfaceprop" "wood"
+	"$nodecal" 1
+}
