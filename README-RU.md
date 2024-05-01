@@ -69,7 +69,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ### Исправлено
 
-- [ ] Звонок от Mr. Oizo завершается корректно
+- [x] Звонок от Mr. Oizo завершается корректно
 - [x] Статические пропы не летают в воздухе, например [#7](https://github.com/boxden/The-Lobby/issues/7)
 - [x] Все текстуры, невидимые для игрока, были закрашены `nodraw`
 - [x] Модели `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенные текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
