@@ -8,7 +8,6 @@
 [![Steam Favorites](https://img.shields.io/steam/favorites/2886996246)](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
 [![Steam Views](https://img.shields.io/steam/views/2886996246)](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
 
-
 ## Information
 
 The Lobby is a destructible map for Garry's Mod. You have the ability to destroy absolutely everything, right down to the props.  
