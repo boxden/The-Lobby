@@ -1,0 +1,19 @@
+Street speaker:
+
+01. maps/fakedmmlobby/music/mike patton - surgery.wav
+02. maps/fakedmmlobby/music/waiting for pagan min.wav
+03. maps/fakedmmlobby/music/gta san andreas (time-mix).wav
+04. maps/fakedmmlobby/music/me for you.wav
+05. maps/fakedmmlobby/music/mom's spaghetti - mom's spaghetti.wav
+06. maps/fakedmmlobby/music/remove kebab.wav
+
+
+Radio Gaga:
+
+01. maps/fakedmmlobby/music/radio/radio-mixdown.wav
+
+
+Telephone:
+
+01. maps/fakedmmlobby/phone ring.wav
+02. maps/fakedmmlobby/phone mr.ozio-lq.mp3
