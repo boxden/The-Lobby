@@ -1,15 +1,15 @@
 "LightmappedGeneric"
 {
-	"$basetexture" 			"maps\phys_lobby\brick\brickwall048i"
-	"$surfaceprop" 			"brick"
+	"$basetexture" "maps\phys_lobby\brick\brickwall048i"
+	"$surfaceprop" "brick"
 
-	"$detail" 				"maps\phys_lobby\detail\noise_detail_01"
-	"$detailscale" 			"7.740"
-	"$detailblendfactor" 	.8
+	"$detail" "maps\phys_lobby\detail\noise_detail_01"
+	"$detailscale" "7.740"
+	"$detailblendfactor" .8
 
-	"$detailblendmode" 		0
-	"%keywords" 			"wasteland"
-	"$bumpmap" 				"maps\phys_lobby\brick\brickwall048i_normal"
-	"$parallaxmap" 			"maps\phys_lobby\brick\brickwall048i_height"
-	"$parallaxmapscale" 	".005"
+	"$detailblendmode" 0
+	"%keywords" "wasteland"
+	"$bumpmap" "maps\phys_lobby\brick\brickwall048i_normal"
+	"$parallaxmap" "maps\phys_lobby\brick\brickwall048i_height"
+	"$parallaxmapscale" ".005"
 }
