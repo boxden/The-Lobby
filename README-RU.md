@@ -70,23 +70,24 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 - [ ] Холмистая местность на улице
 - [ ] Атмосфера на улице более насыщенная
 - [ ] Главный вход переработан [#9](https://github.com/boxden/The-Lobby/issues/9)
-- [ ] Расширенная игровая зона
-- [ ] Электроснабжение здания переосмыслено [#8](https://github.com/boxden/The-Lobby/issues/8)
-- [ ] Здания снаружи получили новый облик
+- [ ] Расширенная игровое пространство
+- [ ] Переработанная система подключения к электросети [#8](https://github.com/boxden/The-Lobby/issues/8)
+- [ ] Внешние здания получили новый облик
 
 ### Исправлено
 
 - [x] Звонок от Mr. Oizo завершается корректно [#14](https://github.com/boxden/The-Lobby/issues/14)
-- [x] Статические пропы не летают в воздухе, например [#7](https://github.com/boxden/The-Lobby/issues/7)
-- [x] Все текстуры, невидимые для игрока, были закрашены `nodraw`
-- [x] Модели `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенные текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
+- [x] Статические пропы не летают в воздухе [#7](https://github.com/boxden/The-Lobby/issues/7)
+- [x] Текстуры невидимые для игрока были закрашены `nodraw`
+- [x] Модель `exit_ceiling.mdl` и `vending_machine.mdl` имеют отключенную версию текстуры [#4](https://github.com/boxden/The-Lobby/issues/4)
 - [x] Модель `moneypallet_washerdryer.mdl` не создаёт ошибки в консоли [#5](https://github.com/boxden/The-Lobby/issues/5)
-- [ ] Музыка завершается при уничтожении радиоприемника [#3](https://github.com/boxden/The-Lobby/issues/3)
+- [ ] Музыка не завершается при уничтожении радиоприемника [#3](https://github.com/boxden/The-Lobby/issues/3)
 - [x] Конфликт материалов с аддоном Half-Life 2 HD Enhancement Project [#16](https://github.com/boxden/The-Lobby/issues/16)
+- [x] Конфликт материалов и моделей со всеми модификациями Мастерской Steam
 
 ### Удалено
 
 - [x] Неиспользуемые оружия `weapon_rpg`, `weapon_357` и `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
 - [ ] Музыка с радио [#1](https://github.com/boxden/The-Lobby/issues/1)
 
-29 Октября 2023г - Была приобретена GTX 1660 Super 6GB за 3200 лей
+<details> <summary> Системные характеристики </summary> 29 Октября 2023г - Была приобретена GTX 1660 Super 6GB за 3200 лей </details>
