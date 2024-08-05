@@ -52,6 +52,11 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 ![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
 
+## Для разработчиков
+
+Скачайте или склонируйте репозиторий  
+Укажите путь `"lobby"   "C:\Documents\GitHub\The-Lobby\lobby"` в файле mount.cfg для Garry's Mod
+
 ## Будущий список изменений
 
 ### Добавлено

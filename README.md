@@ -52,6 +52,11 @@ Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for
 
 ![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
 
+## For Developers
+
+Download or clone the repository  
+Specify the path `"lobby" "C:\Documents\GitHub\The-Lobby\lobby"` in the mount.cfg file for Garry's Mod
+
 ## Future changelist
 
 ### Features
