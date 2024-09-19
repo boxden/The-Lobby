@@ -86,7 +86,7 @@ Specify the path `"lobby" "C:\Documents\GitHub\The-Lobby\lobby"` in the mount.cf
 - [x] All textures invisible to the player have been painted with `nodraw`
 - [x] Models `exit_ceiling.mdl` and `vending_machine.mdl` they have disabled textures [#4](https://github.com/boxden/The-Lobby/issues/4)
 - [x] Model `moneypallet_washerdryer.mdl` doesn't generate errors in the console [#5](https://github.com/boxden/The-Lobby/issues/5)
-- [ ] Music stops when the radio receiver is destroyed [#3](https://github.com/boxden/The-Lobby/issues/3)
+- [x] Music stops when the radio receiver is destroyed [#3](https://github.com/boxden/The-Lobby/issues/3)
 - [x] Conflict materials with addon Half-Life 2 HD Enhancement Project [#16](https://github.com/boxden/The-Lobby/issues/16)
 
 ### Removed
