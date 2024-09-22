@@ -23,7 +23,9 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 Вы так же можете просто ввести gmod_admin_cleanup в консоль
 
 ## Установка
-
+### Метод 1
+Подписаться на [Steamworkshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
+### Метод 2
 + Скачать последнюю [версию карты](https://github.com/boxden/The-Lobby/releases/download/v1.0.1/the_lobby_2886996246.7z)
 
 + Скопировать "phys_lobby" в папку "addons"
