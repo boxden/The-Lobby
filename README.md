@@ -24,7 +24,7 @@ You can also simply type gmod_admin_cleanup in the console
 
 ## Installation
 ### Method 1
-+ Subscribe to [Steamworkshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
++ Subscribe to [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
 ### Method 2
 + Download the [latest map version](https://github.com/boxden/The-Lobby/releases/download/v1.0.1/the_lobby_2886996246.7z)
 
