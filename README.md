@@ -40,7 +40,7 @@ A: To support the improved physics engine "VPhysics Jolt"
 
 ### VPhysics-Jolt Installation
 
-+ Download ZIP archive from [this link](https://git.froggi.es/joshua/vphysics_jolt_gmod_builds) <details> <summary> How? </summary> ![How?](https://github.com/boxden/The-Lobby/assets/30258996/c551dc6e-2358-4fce-9295-9c78f7e852e6) </details>
++ Download ZIP archive from [this link](https://git.froggi.es/joshua/vphysics_jolt_gmod_builds) <details> <summary> How? </summary> ![How?](https://github.com/user-attachments/assets/12d7fd30-35a0-4e81-93be-61763251fa36)</details>
 + Extract the downloaded archive into folder "bin" in Garry's Mod game directory
 
 If you have a non-licensed version of the game, you will have to suffer lags
