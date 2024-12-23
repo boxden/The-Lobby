@@ -17,3 +17,6 @@ Telephone:
 
 01. maps/fakedmmlobby/phone ring.wav
 02. maps/fakedmmlobby/phone mr.ozio-lq.mp3
+
+IN FUTURE:
+50 CENT - MOVIN' ON UP
