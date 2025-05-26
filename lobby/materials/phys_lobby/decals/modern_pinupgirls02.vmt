@@ -1,8 +1,8 @@
-LightmappedGeneric
+"LightmappedGeneric"
 {
 	$vertexcolor 1
 	$vertexalpha 1
-	$basetexture "maps/phys_lobby/decals/modern_pinupgirls02"
+	$basetexture "phys_lobby/decals/modern_pinupgirls02"
 	$decal 1
 	$decalscale 0.25
 	$translucent 1
