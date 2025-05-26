@@ -1,8 +1,8 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\wood\wooddoor014a"
-	"$bumpmap" "maps\phys_lobby\wood\wooddoor014a_normal"
+	"$basetexture" "phys_lobby\wood\wooddoor014a"
+	"$bumpmap" "phys_lobby\wood\wooddoor014a_normal"
 	"$surfaceprop" "wood"
 	"%keywords" "c17downtown"
 	"$envmap" "env_cubemap"

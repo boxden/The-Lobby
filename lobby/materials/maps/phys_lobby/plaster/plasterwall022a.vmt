@@ -1,8 +1,8 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\plaster\plasterwall022a"
+	"$basetexture" "phys_lobby\plaster\plasterwall022a"
 	"$surfaceprop"  "plaster"
-	"$detail" "maps\phys_lobby\detail\plaster_detail_01"
+	"$detail" "phys_lobby\detail\plaster_detail_01"
 	"$detailscale" "6.783"
 	"$detailblendfactor" .8
 	"$detailblendmode" "0"

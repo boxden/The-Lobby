@@ -1,12 +1,12 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\concrete\tunnel_concretewall_01b"
+	"$basetexture" "phys_lobby\concrete\tunnel_concretewall_01b"
 	"$surfaceprop" "concrete"
 
 	"$ssbump" "1"
-	"$bumpmap" "maps\phys_lobby\concrete\tunnel_concretewall_01a_height-ssbump"
+	"$bumpmap" "phys_lobby\concrete\tunnel_concretewall_01a_height-ssbump"
 
-	"$detail" "maps\phys_lobby\detail\dt_conc"
+	"$detail" "phys_lobby\detail\dt_conc"
 	"$detailscale" "10"
 	"$detailblendfactor" ".7"
 	"$detailblendmode" "0"

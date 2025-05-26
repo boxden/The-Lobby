@@ -1,6 +1,6 @@
 DecalModulate
 {
-$baseTexture "maps\phys_lobby\decals\checkpointarrow01_black"
+$baseTexture "phys_lobby\decals\checkpointarrow01_black"
 
 $decal 1
 $fogscale "1.3"

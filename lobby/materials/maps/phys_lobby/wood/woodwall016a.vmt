@@ -2,7 +2,7 @@
 {
 	// Original shader: CubicEnvMapBlendMaskedBaseTimesLightmap
 	"$basealphaenvmapmask" 1
-	"$basetexture" "maps\phys_lobby\wood\woodwall016a"
+	"$basetexture" "phys_lobby\wood\woodwall016a"
 	"$envmap" "env_cubemap"
 	"$surfaceprop" "wood"
 	"%keywords" "borealis"

@@ -1,10 +1,10 @@
 LightmappedGeneric
 {
-    $baseTexture "maps\phys_lobby\plaster\urban_plasterwall_03a"
+    $baseTexture "phys_lobby\plaster\urban_plasterwall_03a"
     $surfaceprop plaster
     $color "[ .75 .75 .75]"
 
-    $bumpmap "maps\phys_lobby\plaster\urban_plasterwall_height-ssbump"
+    $bumpmap "phys_lobby\plaster\urban_plasterwall_height-ssbump"
     $envmap env_cubemap
     $normalmapalphaenvmapmask 1
     $envmaptint "[ .03 .03 .03 ]"

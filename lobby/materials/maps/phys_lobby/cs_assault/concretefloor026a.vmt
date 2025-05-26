@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "maps\phys_lobby\cs_assault\concretefloor026a"
+	"$baseTexture" "phys_lobby\cs_assault\concretefloor026a"
 	"$surfaceprop" "concrete"
 	"%keywords" "cstrike,dod" 
 }

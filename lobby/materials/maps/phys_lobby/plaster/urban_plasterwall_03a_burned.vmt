@@ -1,13 +1,13 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" 			"maps\phys_lobby\plaster\urban_plasterwall_03a"
-	"$detail"				"maps\phys_lobby\detail\detail_burned"
+	"$baseTexture" 			"phys_lobby\plaster\urban_plasterwall_03a"
+	"$detail"				"phys_lobby\detail\detail_burned"
 	"$detailscale" 			"1"
 	"$detailblendfactor" 	".75"
 	"$detailblendmode" 		"0"
 	"$surfaceprop" 			"plaster"
 
-	"$bumpmap" 				"maps\phys_lobby\plaster\urban_plasterwall_height-ssbump"
+	"$bumpmap" 				"phys_lobby\plaster\urban_plasterwall_height-ssbump"
 
 //	"$envmap" "env_cubemap"
 //	"$normalmapalphaenvmapmask" 1

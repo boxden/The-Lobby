@@ -1,14 +1,14 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\plaster\plasterwall044b"
+	"$basetexture" "phys_lobby\plaster\plasterwall044b"
 	"$surfaceprop" "plaster"
-	"$detail" "maps\phys_lobby\detail\plaster_detail_01"
+	"$detail" "phys_lobby\detail\plaster_detail_01"
 	"$detailscale" "6.783"
 	"$detailblendfactor" .8
 	"$detailblendmode" "0"
 
-	"$bumpmap" "maps\phys_lobby\plaster\plasterwall044b_normal"
+	"$bumpmap" "phys_lobby\plaster\plasterwall044b_normal"
 	"%keywords" "c17downtown"
 	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" 1

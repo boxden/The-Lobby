@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\wood\woodstair002c"
+	"$basetexture" "phys_lobby\wood\woodstair002c"
 	"$surfaceprop" "wood"
 	"%keywords" "c17skyscraper"
 }

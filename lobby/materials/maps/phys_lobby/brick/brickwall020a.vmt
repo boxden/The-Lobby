@@ -1,10 +1,10 @@
 "LightmappedGeneric"
 {
 	// Original shader: BaseTimesLightmap
-	"$basetexture" "maps\phys_lobby\brick\brickwall020a"
+	"$basetexture" "phys_lobby\brick\brickwall020a"
 	"$surfaceprop" "brick"
 
-	"$detail" "maps\phys_lobby\detail\noise_detail_01"
+	"$detail" "phys_lobby\detail\noise_detail_01"
 	"$detailscale" "7.740"
 	"$detailblendfactor" .8
 

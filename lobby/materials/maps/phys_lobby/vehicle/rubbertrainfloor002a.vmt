@@ -1,9 +1,9 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\vehicle\rubbertrainfloor002a"
+	"$basetexture" "phys_lobby\vehicle\rubbertrainfloor002a"
 	"$surfaceprop" "rubber"
-	"$bumpmap" "maps\phys_lobby\vehicle\rubbertrainfloor002a_normal"
+	"$bumpmap" "phys_lobby\vehicle\rubbertrainfloor002a_normal"
 	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" 1
 	"$envmapcontrast" 1

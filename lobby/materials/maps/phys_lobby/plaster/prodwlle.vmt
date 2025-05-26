@@ -1,5 +1,5 @@
 LightmappedGeneric
 {
-	"$basetexture"	"maps\phys_lobby\plaster\prodwlle"
+	"$basetexture"	"phys_lobby\plaster\prodwlle"
 	"$surfaceprop" 	"plaster"
 }

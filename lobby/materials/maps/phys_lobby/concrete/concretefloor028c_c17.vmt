@@ -1,10 +1,10 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\concrete\concretefloor028c"
+	"$basetexture" "phys_lobby\concrete\concretefloor028c"
 	"$surfaceprop" "concrete"
 	
-    "$detail" "maps\phys_lobby\detail\noise_detail_01"
+    "$detail" "phys_lobby\detail\noise_detail_01"
 	"$detailscale" "7.345"
 	"$detailblendfactor" .6
 	"$detailblendmode" 0

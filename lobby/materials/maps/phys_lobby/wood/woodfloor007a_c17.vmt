@@ -1,12 +1,12 @@
 // envmaptint_fix
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\wood\woodfloor007a"
+	"$basetexture" "phys_lobby\wood\woodfloor007a"
 	"$surfaceprop" "wood"
 
 	 "LightmappedGeneric_DX9"
 	{
-		"$bumpmap" "maps\phys_lobby\wood\woodfloor007a_normal"
+		"$bumpmap" "phys_lobby\wood\woodfloor007a_normal"
 		"$envmap" "env_cubemap"
 		"$normalmapalphaenvmapmask" 1
 		"$envmapcontrast" 1

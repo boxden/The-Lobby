@@ -1,11 +1,11 @@
 "ShatteredGlass"
 {
-	"$basetexture" "maps\phys_lobby\glass\glasswindowbreak070b"
-	"$detail" "maps\phys_lobby\glass\glasswindowbreak070b"
+	"$basetexture" "phys_lobby\glass\glasswindowbreak070b"
+	"$detail" "phys_lobby\glass\glasswindowbreak070b"
 	"$envmap" "env_cubemap"
 	"$surfaceprop" "glass"
 	"%keywords" "c17industrial"
-	"$envmapmask" "maps\phys_lobby\glass\glasswindowbreak070b_mask"
+	"$envmapmask" "phys_lobby\glass\glasswindowbreak070b_mask"
 	"$translucent" 1
 	"$basetexturetransform" "scale .7 .7"
 	"$detailscale" 0.7

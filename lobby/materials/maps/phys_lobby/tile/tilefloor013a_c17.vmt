@@ -1,12 +1,12 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "maps\phys_lobby\tile\tilefloor013a"	
+	"$baseTexture" "phys_lobby\tile\tilefloor013a"	
 	"$surfaceprop" "tile"
 
 
 	"LightmappedGeneric_DX9"
  	{
-	"$bumpmap" "maps\phys_lobby\tile\tilefloor013a_normal"
+	"$bumpmap" "phys_lobby\tile\tilefloor013a_normal"
 	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" 1
 	"$envmapcontrast" 1

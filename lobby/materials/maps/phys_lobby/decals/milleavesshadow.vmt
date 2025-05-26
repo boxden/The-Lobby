@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$baseTexture" "maps\phys_lobby\decals\milleavesshadow"
+	"$baseTexture" "phys_lobby\decals\milleavesshadow"
 	"$translucent" "1"
 	"$decal" "1"
 	"$decalscale" "0.250000"

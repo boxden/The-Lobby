@@ -1,6 +1,6 @@
 LightmappedGeneric
 {
-	$basetexture "maps\phys_lobby\decals\qrcode"
+	$basetexture "phys_lobby\decals\qrcode"
 	$decal	1
 	$translucent	1
 }

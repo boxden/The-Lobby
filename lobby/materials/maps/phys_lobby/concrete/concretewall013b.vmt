@@ -1,9 +1,9 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "maps\phys_lobby\concrete\concretewall013b"
+	"$basetexture" "phys_lobby\concrete\concretewall013b"
 	"$surfaceprop" "concrete"
 	
-        "$detail" "maps\phys_lobby\detail\noise_detail_01"
+        "$detail" "phys_lobby\detail\noise_detail_01"
 	"$detailscale" "7.345"
 	"$detailblendfactor" .2
 	"$detailblendmode" 0
