@@ -80,6 +80,7 @@ Specify the path `"lobby" "C:\Documents\GitHub\The-Lobby\lobby"` in the mount.cf
 - [ ] Expanded gaming area
 - [ ] The building's electrical supply has been reimagined [#8](https://github.com/boxden/The-Lobby/issues/8)
 - [ ] Other buildings have received a new appearance
+- [ ] Logic street phone has been reworked
 
 ### Fixed
 
@@ -90,6 +91,10 @@ Specify the path `"lobby" "C:\Documents\GitHub\The-Lobby\lobby"` in the mount.cf
 - [x] Model `moneypallet_washerdryer.mdl` doesn't generate errors in the console [#5](https://github.com/boxden/The-Lobby/issues/5)
 - [x] Music stops when the radio receiver is destroyed [#3](https://github.com/boxden/The-Lobby/issues/3)
 - [x] Conflict materials with addon Half-Life 2 HD Enhancement Project [#16](https://github.com/boxden/The-Lobby/issues/16)
+- [x] Conflict of materials and models with all Steam Workshop addons
+- [ ] Street phone was ringing even when the receiver was hanging off
+- [ ] Street phone receiver had an off-center mass, causing it to jitter when hanging
+- [x] Monitor now turns off when the system unit is destroyed [#19](https://github.com/boxden/The-Lobby/issues/19)
 
 ### Removed
 
