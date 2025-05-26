@@ -1,102 +1,167 @@
+
 # The Lobby
 
-[![en](https://img.shields.io/badge/lang-English%20%F0%9F%87%AC%F0%9F%87%A7-white)](README.md)
-[![ru](https://img.shields.io/badge/%D1%8F%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%F0%9F%87%B7%F0%9F%87%BA-white)](README-RU.md)
-![GitHub Release](https://img.shields.io/github/v/release/boxden/The-Lobby)
-[![Steam Views](https://img.shields.io/steam/views/2886996246)](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
-[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/2886996246)](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
-[![Steam Favorites](https://img.shields.io/steam/favorites/2886996246)](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/boxden/The-Lobby/total)
+[![en][lang_en]](README.md)
+[![ru][lang_ru]](README-RU.md)
+[![GitHub Release][version_map]][latest_release]
+[![Steam Views][steamviews]][steam_workshop]
+[![Steam Subscriptions][steamsub]][steam_workshop]
+[![Steam Favorites][steamfav]][steam_workshop]
+[![GitHub Downloads (all assets, all releases)][downloads]][all_releases]
 
-## Information
+## ℹ️ About
 
-The Lobby is a destructible map for Garry's Mod. You have the ability to destroy absolutely everything, right down to the props.  
-Destructibility is simulated by a physics engine called Digital Molecular Matter, aka DMM.
+**The Lobby** is a destructible map for Garry's Mod where you can destroy nearly everything — including props.  
+Destruction is inspired by the **Digital Molecular Matter (DMM)** physics engine.
 
-The map was originally created by [robixn](https://www.youtube.com/watch?v=N7MYttLnHpA) in 2010 year.
+Originally created in 2010 by [robixn][robixn_showcase_physlobby].
 
-For a comfortable game we recommend the Chromium x64 version of the game along with the installed enhanced physics engine VPhysics Jolt.
+For the best experience, it is recommended to use:
+- Garry's Mod version: **Chromium x64**
+- Physics engine: **VPhysics Jolt**
 
-Map name: phys_lobby  
-Bind to restore: bind `<key>` gmod_admin_cleanup  
-For example, i used "del" key  
-You can also simply type gmod_admin_cleanup in the console
+**Map name:** `phys_lobby`  
+**Bind for map reset:** `bind <key> gmod_admin_cleanup`  
+*Example:* `bind del gmod_admin_cleanup`  
+You can also type `gmod_admin_cleanup` in the console.
 
-## Installation
-### Method 1
-+ Subscribe to [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246)
-### Method 2
-+ Download the [latest map version](https://github.com/boxden/The-Lobby/releases/download/v1.0.1/the_lobby_2886996246.7z)
+---
 
-+ Drag&Drop the "phys_lobby" into "addons" folder
+## 📦 Installation
 
-### Recommendation for better performance
+### Method 1 — Steam Workshop
 
-If you have a licensed version of Garry's Mod, switch to the beta branch named "x86-64 - Chromium + 64-bit binaries"  
-(Garry's Mod -> Properties -> Beta Versions -> "x86-64 - Chromium + 64-bit binaries")
+- Subscribe to the map on [Steam Workshop][steam_workshop].
 
-Q: What's that for?  
-A: To support the improved physics engine "VPhysics Jolt"
+### Method 2 — Manual installation
 
-### VPhysics-Jolt Installation
+1. [Download the map archive][download_latest_map]
+2. Extract the `phys_lobby` folder into the `addons` directory
 
-+ Download ZIP archive from [this link](https://git.froggi.es/joshua/vphysics_jolt_gmod_builds) <details> <summary> How? </summary> ![How?](https://github.com/user-attachments/assets/12d7fd30-35a0-4e81-93be-61763251fa36)</details>
-+ Extract the downloaded archive into folder "bin" in Garry's Mod game directory
+---
 
-If you have a non-licensed version of the game, you will have to suffer lags
+## ⚙️ Performance Recommendations
 
-## Acknowledgements
+### Enabling Chromium x64
 
-Highly recommend VPhysics Jolt for best performance!  
-Thanks a lot to [Nicolai Seven](https://steamcommunity.com/id/nicolai_seven) for providing a great addon on destructible props for [Half-Life 2](https://steamcommunity.com/sharedfiles/filedetails/?id=767948098) and [CS:Source](https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409)
+If you're using a licensed copy of Garry's Mod:
 
-## Media
+**Steam:**  
+`Garry's Mod → Properties → Betas → x86-64 - Chromium + 64-bit binaries`
 
-![The Lobby](https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif)
+**Why?**  
+To support the improved physics engine **VPhysics Jolt**
 
-## For Developers
+### Installing VPhysics Jolt
 
-Download or clone the repository  
-Specify the path `"lobby" "C:\Documents\GitHub\The-Lobby\lobby"` in the mount.cfg file for Garry's Mod
+1. [Download the ZIP archive here][vphysics_gmod_build]
+2. Extract it to your Garry's Mod installation folder:  
+   `..\steamapps\common\GarrysMod`
 
-## Future changelist
+> ⚠️ If you're using a pirated copy, expect performance issues.
 
-### Features
+---
 
-- [ ] Functional elevator
-- [ ] Add skybox
-- [ ] New rooms on the first floor
-- [ ] Staircase landing
-- [ ] New radio station
-- [ ] Second floor
-- [ ] Basement
-- [ ] Bathroom
+## 🙏 Credits
 
-### Improvements
+Highly recommend using **VPhysics Jolt** for improved performance and realism.  
+Special thanks to [Nicolai Seven][author_nicolai] for the amazing destructible prop addons for [Half-Life 2][author_nicolai_hl2] and [CS:Source][author_nicolai_css].
 
-- [ ] Hilly terrain on the street
-- [ ] Soundscape outside is more vibrant
-- [ ] Redesign main entrance [#9](https://github.com/boxden/The-Lobby/issues/9)
-- [ ] Expanded gaming area
-- [ ] The building's electrical supply has been reimagined [#8](https://github.com/boxden/The-Lobby/issues/8)
-- [ ] Other buildings have received a new appearance
-- [ ] Logic street phone has been reworked
+---
 
-### Fixed
+## 🖼️ Screenshot
 
-- [x] Call from Mr. Oizo ends correctly [#14](https://github.com/boxden/The-Lobby/issues/14)
-- [x] Static_prop's don't flying, [for example #7](https://github.com/boxden/The-Lobby/issues/7)
-- [x] All textures invisible to the player have been painted with `nodraw`
-- [x] Models `exit_ceiling.mdl` and `vending_machine.mdl` they have disabled textures [#4](https://github.com/boxden/The-Lobby/issues/4)
-- [x] Model `moneypallet_washerdryer.mdl` doesn't generate errors in the console [#5](https://github.com/boxden/The-Lobby/issues/5)
-- [x] Music stops when the radio receiver is destroyed [#3](https://github.com/boxden/The-Lobby/issues/3)
-- [x] Conflict materials with addon Half-Life 2 HD Enhancement Project [#16](https://github.com/boxden/The-Lobby/issues/16)
-- [x] Conflict of materials and models with all Steam Workshop addons
-- [ ] Street phone was ringing even when the receiver was hanging off
-- [ ] Street phone receiver had an off-center mass, causing it to jitter when hanging
-- [x] Monitor now turns off when the system unit is destroyed [#19](https://github.com/boxden/The-Lobby/issues/19)
+![The Lobby][phys_lobby_compare]
 
-### Removed
+---
 
-- [x] Unused weapons `weapon_rpg`, `weapon_357` and `weapon_shotgun` [#6](https://github.com/boxden/The-Lobby/issues/6)
-- [ ] Music from the radio [#1](https://github.com/boxden/The-Lobby/issues/1)
+## 🔧 For Developers
+
+Clone or download the repository.  
+Then set the path in `mount.cfg`:
+
+```cfg
+"lobby" "C:\Documents\GitHub\The-Lobby\lobby"
+```
+
+---
+
+## 📝 Planned Changes
+
+### ✨ Additions
+
+- [ ] Functional elevator  
+- [ ] Skybox  
+- [ ] New rooms on the first floor  
+- [ ] Stair landing  
+- [ ] Radio station  
+- [ ] Second floor  
+- [ ] Basement  
+- [ ] Bathroom  
+
+### 🔧 Improvements
+
+- [ ] Hills and terrain outside  
+- [ ] More immersive outdoor atmosphere  
+- [ ] Redesigned main entrance [#9]  
+- [ ] Expanded play area  
+- [ ] New electricity system [#8]  
+- [ ] Reworked external buildings  
+- [ ] Improved phone booth logic  
+
+### 🐛 Fixes
+
+- [x] Mr. Oizo call ends correctly [#14]  
+- [x] Static props no longer float [#7]  
+- [x] Invisible textures replaced with `nodraw`  
+- [x] Models `exit_ceiling.mdl` and `vending_machine.mdl` use proper textures [#4]  
+- [x] `moneypallet_washerdryer.mdl` no longer causes console errors [#5]  
+- [x] Music no longer stops when radio is destroyed [#3]  
+- [x] Fixed conflict with Half-Life 2 HD Enhancement Project [#16]  
+- [x] Compatible with all Workshop mods [#17]  
+- [ ] Phone kept ringing when the handset was hanging [#15]  
+- [ ] Handset had incorrect mass center  
+- [x] Destroyed PC now turns off monitor [#19]  
+- [x] NPCs now react to snipers [#18]  
+
+### 🗑️ Removed
+
+- [x] Unused weapons `weapon_rpg`, `weapon_357`, `weapon_shotgun` [#6]  
+- [ ] Radio music [#1]  
+
+<!-- shields.io -->
+[lang_en]: https://img.shields.io/badge/lang-English%20%F0%9F%87%AC%F0%9F%87%A7-white
+[lang_ru]: https://img.shields.io/badge/%D1%8F%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%F0%9F%87%B7%F0%9F%87%BA-white
+[latest_release]: https://github.com/boxden/The-Lobby/releases/tag/v1.0.1
+[all_releases]: https://github.com/boxden/The-Lobby/releases
+[version_map]: https://img.shields.io/github/v/release/boxden/The-Lobby
+[steamviews]: https://img.shields.io/steam/views/2886996246
+[steamsub]: https://img.shields.io/steam/subscriptions/2886996246
+[steamfav]: https://img.shields.io/steam/favorites/2886996246
+[downloads]: https://img.shields.io/github/downloads/boxden/The-Lobby/total
+
+<!-- Links -->
+[robixn_showcase_physlobby]: https://www.youtube.com/watch?v=N7MYttLnHpA
+[steam_workshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246
+[phys_lobby_compare]: https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif
+[vphysics_gmod_build]: https://github.com/misyltoad/VPhysics-Jolt/releases/download/0.20/vphysics_jolt_0.20_gmod_win64.zip
+[download_latest_map]: https://github.com/boxden/The-Lobby/releases/download/v1.0.1/the_lobby_2886996246.7z
+[author_nicolai]: https://steamcommunity.com/id/nicolai_seven
+[author_nicolai_hl2]: https://steamcommunity.com/sharedfiles/filedetails/?id=767948098
+[author_nicolai_css]: https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409
+
+<!-- Issues -->
+[#1]: https://github.com/boxden/The-Lobby/issues/1
+[#3]: https://github.com/boxden/The-Lobby/issues/3
+[#4]: https://github.com/boxden/The-Lobby/issues/4
+[#5]: https://github.com/boxden/The-Lobby/issues/5
+[#6]: https://github.com/boxden/The-Lobby/issues/6
+[#7]: https://github.com/boxden/The-Lobby/issues/7
+[#8]: https://github.com/boxden/The-Lobby/issues/8
+[#9]: https://github.com/boxden/The-Lobby/issues/9
+[#14]: https://github.com/boxden/The-Lobby/issues/14
+[#15]: https://github.com/boxden/The-Lobby/issues/15
+[#16]: https://github.com/boxden/The-Lobby/issues/16
+[#17]: https://github.com/boxden/The-Lobby/issues/17
+[#18]: https://github.com/boxden/The-Lobby/issues/18
+[#19]: https://github.com/boxden/The-Lobby/issues/19
