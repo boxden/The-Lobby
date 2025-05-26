@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "phys_lobbyl\metaldoor016a"
+	"$surfaceprop"  "metal"
+	"$detail" "phys_lobbyil\metal_detail_01"
+	"$detailscale" "4.283"
+	"$detailblendfactor" .65
+	"$detailblendmode" "0"
+
+	"%keywords" "c17downtown"
+}

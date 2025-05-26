@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "maps\phys_lobby\nature\dirtfloor011a"
-	"$surfaceprop" "dirt"
-	"$bumpmap" "maps\phys_lobby\nature\dirtfloor011a_normal"
-}

@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "maps\phys_lobby\metal\metaltruss016a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17industrial,wasteland"
-}
