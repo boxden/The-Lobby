@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "phys_lobbyls\qrcode"
-	$decal	1
-	$translucent	1
-}

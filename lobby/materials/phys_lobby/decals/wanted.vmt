@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "phys_lobbyls\wanted"
-	"%keywords" "petya"
-	"$translucent" 1
-	"$decal" 1
-	"$decalscale" 0.25
-}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "maps\phys_lobby\props\wooddrift001a"
+	"$surfaceprop" "wood"
+}
