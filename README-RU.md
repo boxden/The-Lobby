@@ -34,7 +34,7 @@ The Lobby - это разрушаемая карта для Garry's Mod. У ва
 
 Если у вас лицензионная версия Garry's Mod  
 Выберите бета-ветку под названием `x86-64 - Chromium + 64-bit binaries`  
-(`Garry's Mod` -> `Свойства` -> `Бета-Версии` -> `x86-64 - Chromium + 64-bit binaries`)
+`Garry's Mod -> Свойства -> Бета-Версии -> x86-64 - Chromium + 64-bit binaries`
 
 В: Для чего это нужно?  
 О: Для поддержки улучшенного физического движка "VPhysics Jolt"
