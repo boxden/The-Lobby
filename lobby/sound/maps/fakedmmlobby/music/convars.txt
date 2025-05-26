@@ -1,0 +1,66 @@
+--[[
+lua_run - это энтити, которое позволяет выполнять Lua-код на сервере.
+Он может быть использован для выполнения различных действий, таких как изменение значений переменных, вызов функций и т.д.
+Пример: lua_run print("Hello, world!") - выведет "Hello, world!" в консоль сервера
+]]--
+
+// Шаблон для работы с lua_run для включения/выключения звука
+// Чувствителен к регистру
+// Параметры:
+
+
+// ent - объект | ents - таблица объектов | FindByName - функция поиска объекта по имени | [1] - первый объект в таблице (если их несколько с одинаковым именем)
+ent = ents.FindByName('snd_amontobin')[1]
+// Найти объект по имени (snd_amontobin - имя объекта)
+// Если объект не найден, то вернется nil (пустое значение)
+
+//== Параметры ==========
+ent:Fire // Вызов функции Fire
+// Fire - это функция, которая позволяет вызывать события или действия на объекте
+// Все изменения действуют только на время выполнения функции, не сохраняя изменения в объекте
+ent:Fire('PlaySound') // Вызов функции PlaySound
+ent:Fire('StopSound') // Вызов функции StopSound
+ent:Fire('ToggleSound') // Вызов функции включить/выключить звук
+ent:Fire('Volume', '5') // Вызов функции Volume с параметром 5
+ent:Fire('Pitch', '100') // Вызов функции Pitch с параметром 100
+ent:Fire('FadeIn', '2') // Вызов функции FadeIn с параметром 2
+
+ent:SetKeyValue // Установка значения ключа
+// SetKeyValue - это функция, которая позволяет устанавливать значения ключей на объекте
+// Все изменения сохраняя в объекте (в отличие от Fire)
+// Но только в течении сессии, после перезагрузки сервера все изменения будут сброшены
+ent:SetKeyValue('fadeinsecs', '2') // Установка значения ключа fadeinsecs
+ent:SetKeyValue('fadeoutsecs', '2') // Установка значения ключа fadeoutsecs
+ent:SetKeyValue('message', 'maps/fakedmmlobby/music/deadmau5ArguruRemixClub.wav') // Установка значения ключа message
+ent:SetKeyValue('message', "maps/fakedmmlobby/music/Mom's Spaghetti - Mom's Spaghetti.wav") // Установить путь к звуку (относительно папки sound)
+// Использовать с "" если путь содержит пробелы
+// Пример: "maps/fakedmmlobby/music/Mom's Spaghetti - Mom's Spaghetti.wav"
+// Если путь не содержит пробелов, то можно использовать ''
+
+// Примеры использования
+// Оставить звук, заменив его на другой (с помощью AddOutput) и воспроизвести
+ent = ents.FindByName('snd_amontobin')[1] ent:Fire('StopSound') ent:Fire('AddOutput', 'message maps/fakedmmlobby/music/deadmau5ArguruRemixClub.wav') ent:Fire('PlaySound')
+
+// Оставить звук, заменив его на другой и воиспроизвести
+ent = ents.FindByName('snd_amontobin')[1] ent:Fire('StopSound') ent:SetKeyValue('message', 'maps/fakedmmlobby/music/deadmau5ArguruRemixClub.wav') ent:Fire('PlaySound')
+
+// Выключить звук
+ent = ents.FindByName('snd_amontobin')[1] ent:Fire('StopSound')
+
+// Выключить звук с fade out
+ent = ents.FindByName('snd_amontobin')[1] ent:SetKeyValue('fadeoutsecs', '2') ent:Fire('StopSound')
+
+// Включить звук с fade in двум ambiентам
+ent = ents.FindByName('snd_amontobin')[1] ent:SetKeyValue('fadeinsecs', '2') ent:SetKeyValue('message', 'maps/fakedmmlobby/music/deadmau5ArguruRemixClub.wav') ent:Fire('PlaySound')
+
+// Suggested change
+ent = ents.FindByName('snd_amontobin')[1] ent:SetKeyValue('message', 'maps/fakedmmlobby/music/deadmau5ArguruRemixClub.wav') ent:SetKeyValue('fadeinsecs', '2') ent:SetKeyValue('fadeoutsecs', '2') ent:Fire('PlaySound')
+
+// Задать новый параметр и включить звук
+ent = ents.FindByName('snd_amontobin')[1] ent:SetKeyValue('message', 'maps/fakedmmlobby/music/deadmau5ArguruRemixClub.wav') ent:Fire('PlaySound')
+
+// Задать новый параметр и включить звук с fade in/out
+ent = ents.FindByName('snd_amontobin')[1] ent:SetKeyValue('fadeinsecs', '2') ent:SetKeyValue('fadeoutsecs', '2') ent:Fire('PlaySound')
+
+// Задать новый параметр и включить звук
+ent = ents.FindByName('snd_amontobin')[1] ent:SetKeyValue('message', "maps/fakedmmlobby/music/Mom's Spaghetti - Mom's Spaghetti.wav") ent:Fire('PlaySound')
