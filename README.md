@@ -84,6 +84,36 @@ Then set the path in `mount.cfg`:
 "lobby" "C:\Documents\GitHub\The-Lobby\lobby"
 ```
 
+## 📂 Folder Structure
+
+Follow this structure to keep everything organized and ensure the map functions properly.
+
+```
+The-Lobby/
+├── _ideas/              # References and concept materials
+├── lua/                 # Lua scripts
+├── maps/                # Map files, minimap, and NPC navigation data
+│   ├── graphs/            # AI graph data
+│   ├── instances/         # VMF instances used in the map
+│   ├── thumb/             # Map thumbnail (used in main menu)
+│   └── phys_lobby.vmf     # Main editable map file for Hammer++
+├── materials/           # Packed textures and materials
+├── materialsrc/         # Source (unpacked) textures and VMTs
+├── models/              # Packed models
+├── modelsrc/            # Source (unpacked) models (SMD, QC, etc.)
+├── screenshots/         # Developer screenshots
+├── scripts/             # Soundscapes, color correction
+└── sound/               # Audio files
+    └── maps/               # Map name
+        ├── fakedmmlobby/
+        │   ├── _dev/          # Developer/testing sounds
+        │   ├── ambient/       # Environmental sounds
+        │   ├── music/         # Music tracks
+        │   ├── sfx/           # Sound effects
+        │   └── trance/        # Trance/techno music used in the map
+        └── used sounds in map.txt  # List of all soundtracks used in the map
+```
+
 ---
 
 ## 📝 Planned Changes
