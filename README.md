@@ -106,8 +106,8 @@ The-Lobby/
 ├── screenshots/         # Developer screenshots
 ├── scripts/             # Soundscapes, color correction
 └── sound/               # Audio files
-    └── maps/               # Map name
-        ├── fakedmmlobby/
+    └── maps/
+        ├── fakedmmlobby/    # Map name
         │   ├── _dev/          # Developer/testing sounds
         │   ├── ambient/       # Environmental sounds
         │   ├── music/         # Music tracks
