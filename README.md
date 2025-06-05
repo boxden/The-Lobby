@@ -85,6 +85,7 @@ Then set the path in `mount.cfg`:
 ```
 > [!NOTE]
 > Your path maybe different
+
 ## 📂 Folder Structure
 
 Follow this structure to keep everything organized and ensure the map functions properly.
