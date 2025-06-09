@@ -44,3 +44,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3293058330
 
 Better Collision Pack
 https://steamcommunity.com/workshop/filedetails/?id=2568735839
+
+---
+
+Fixed UV-map for de_inferno ceiling light model
+https://steamcommunity.com/sharedfiles/filedetails/?id=3024769861
