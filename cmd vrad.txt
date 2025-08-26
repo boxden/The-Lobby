@@ -1,0 +1,1 @@
+-StaticPropPolys -TextureShadows -StaticPropLighting

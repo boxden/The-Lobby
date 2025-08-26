@@ -84,7 +84,7 @@ Follow this structure to keep everything organized and ensure the map functions 
 The-Lobby/
 ├── _ideas/              # References and concept materials
 ├── lua/                 # Lua scripts
-├── maps/                # Map files, minimap, and NPC navigation data
+├── maps/                # Map files, thumbnail, NPC navigation data
 │   ├── graphs/            # AI graph data
 │   ├── instances/         # VMF instances used in the map
 │   ├── thumb/             # Map thumbnail (used in main menu)
