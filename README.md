@@ -25,8 +25,6 @@ For the best experience, it is recommended to use:
 *Example:* `bind del gmod_admin_cleanup`  
 You can also type `gmod_admin_cleanup` in the console.
 
----
-
 ## 📦 Installation
 
 ### Method 1 — Steam Workshop
@@ -37,8 +35,6 @@ You can also type `gmod_admin_cleanup` in the console.
 
 1. [Download the map archive][download_latest_map]
 2. Extract the `phys_lobby` folder into the `addons` directory
-
----
 
 ## ⚙️ Performance Recommendations
 
@@ -60,20 +56,14 @@ To support the improved physics engine **VPhysics Jolt**
 
 > ⚠️ If you're using a pirated copy, expect performance issues.
 
----
-
 ## 🙏 Credits
 
 Highly recommend using **VPhysics Jolt** for improved performance and realism.  
 Special thanks to [Nicolai Seven][author_nicolai] for the amazing destructible prop addons for [Half-Life 2][author_nicolai_hl2] and [CS:Source][author_nicolai_css].
 
----
-
 ## 🖼️ Screenshot
 
 ![The Lobby][phys_lobby_compare]
-
----
 
 ## 🔧 For Developers
 
@@ -115,8 +105,6 @@ The-Lobby/
         │   └── trance/        # Trance/techno music used in the map
         └── used sounds in map.txt  # List of all soundtracks used in the map
 ```
-
----
 
 ## 📝 Planned Changes
 
