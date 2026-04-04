@@ -43,7 +43,7 @@ You can also type `gmod_admin_cleanup` in the console.
 If you're using a licensed copy of Garry's Mod:
 
 **Steam:**  
-`Garry's Mod → Properties → Betas → x86-64 - Chromium + 64-bit binaries`
+`Garry's Mod → Properties → Game Versions & Betas → x86-64`
 
 **Why?**  
 To support the improved physics engine **VPhysics Jolt**
