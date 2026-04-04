@@ -9,68 +9,64 @@
 [![Steam Favorites][steamfav]][steam_workshop]
 [![GitHub Downloads (all assets, all releases)][downloads]][all_releases]
 
-## ℹ️ Описание
+Разрушаемая карта для Garry's Mod в которой можно уничтожить практически всё, включая пропы  
+Разрушаемость вдохновлена физическим движком Digital Molecular Matter  
+Оригинальная версия карты была создана в 2010 году [robixn'ом][robixn_showcase_physlobby]
 
-**The Lobby** — это разрушаемая карта для Garry's Mod, в которой можно уничтожить практически всё, включая пропы.  
-Разрушаемость вдохновлена физическим движком **Digital Molecular Matter (DMM)**.
-
-Оригинальная версия карты была создана в 2010 году [robixn'ом][robixn_showcase_physlobby].
-
-Для комфортной игры рекомендуется использовать:
+Для комфортной игры рекомендуется использовать
 - Версию Garry's Mod: **Chromium x64**
 - Улучшенный физический движок: **VPhysics Jolt**
 
-**Название карты:** `phys_lobby`  
-**Бинд для восстановления карты:** `bind <клавиша> gmod_admin_cleanup`  
+![The Lobby][phys_lobby_compare]
+
+Название карты: `phys_lobby`  
+Бинд для восстановления карты: `bind <клавиша> gmod_admin_cleanup`  
 *Пример:* `bind del gmod_admin_cleanup`  
-Также можно ввести `gmod_admin_cleanup` в консоль вручную.
+Также можно ввести `gmod_admin_cleanup` в консоль
 
-## 📦 Установка
+### 📦 Установка
 
-### Метод 1 — Steam Workshop
+**Метод 1** - Steam Workshop
 
-- Подпишитесь на карту в [Steam Workshop][steam_workshop].
+- Подпишитесь на карту в [Steam Workshop][steam_workshop]
 
-### Метод 2 — Ручная установка
+**Метод 2** - Ручная установка
 
-1. [Скачайте архив карты][download_latest_map]
+1. Скачайте [архив карты][download_latest_map]
 2. Распакуйте папку `phys_lobby` в директорию `addons`
 
-## ⚙️ Рекомендации по производительности
+### ⚙️ Рекомендации по производительности
 
-### Включение Chromium x64
-
+**Включение Chromium x64**  
 Если у вас лицензионная версия Garry's Mod:
 
-**Steam:**  
-`Garry's Mod → Свойства → Бета-версии → x86-64 - Chromium + 64-bit binaries`
+Откройте **Steam**  
+`Garry's Mod → Свойства → Версии игры и бета-версии → x86-64`
 
 **Зачем это нужно?**  
 Для поддержки улучшенного физического движка **VPhysics Jolt**
 
-### Установка VPhysics Jolt
+#### Установка VPhysics Jolt
 
-1. [Скачайте ZIP-архив отсюда][vphysics_gmod_build]
+1. Скачайте [ZIP-архив][vphysics_gmod_build]
 2. Распакуйте содержимое в папку установки Garry's Mod:  
    `..\steamapps\common\GarrysMod`
 
-> ⚠️ Если вы используете пиратскую версию игры — возможны лаги.
+### 👍 Благодарность
 
-## 🙏 Благодарности
+Рекомендую **VPhysics Jolt** для лучшей физики и производительности  
+Огромная благодарность [Nicolai Seven][author_nicolai] за потрясающие аддоны для разрушаемых пропов из [Half-Life 2][author_nicolai_hl2] и [CS:Source][author_nicolai_css]
 
-Рекомендую **VPhysics Jolt** для лучшей физики и производительности.  
-Огромная благодарность [Nicolai Seven][author_nicolai] за потрясающие аддоны для разрушаемых пропов из [Half-Life 2][author_nicolai_hl2] и [CS:Source][author_nicolai_css].
+Компиляция совершена с помощью [`VBSP++`][ficool2_tools] [`VVIS++`][ficool2_tools] [`VRAD++`][ficool2_tools]  
 
-## 🖼️ Скриншот
+### 📝 Будущий список изменений
 
-![The Lobby][phys_lobby_compare]
+Планируется улучшение карты: исправление всех выявленных ошибок, опираясь на личные наблюдения, отзывы из сообщества Steam Workshop и материалы, просмотренные на YouTube
 
-## 📝 Будущие обновления
-
-### ✨ Добавления
+### ✨ Добавлено
 
 - [ ] Функциональный лифт  
-- [ ] Скайбокс  
+- [ ] Скайбокс 3D  
 - [ ] Новые комнаты на первом этаже  
 - [ ] Лестничная площадка  
 - [ ] Радиостанция  
@@ -78,7 +74,7 @@
 - [ ] Подвал  
 - [ ] Санузел  
 
-### 🔧 Улучшения
+### 🔧 Улучшено
 
 - [ ] Холмистый ландшафт снаружи  
 - [ ] Более атмосферная улица  
@@ -87,8 +83,9 @@
 - [ ] Новая система электропитания [#8]  
 - [ ] Новый облик внешних зданий  
 - [ ] Улучшена логика уличного телефона  
+- [ ] Возможность уничтожать каждую лампу отдельно  
 
-### 🐛 Исправления
+### 🐛 Исправлено
 
 - [x] Корректное завершение звонка от Mr. Oizo [#14]  
 - [x] Статичные пропы больше не летают [#7]  
@@ -108,21 +105,29 @@
 - [x] Оружия `weapon_rpg`, `weapon_357`, `weapon_shotgun` [#6]  
 - [ ] Радио-музыка [#1]  
 
-## 🔧 Для разработчиков
+### 🔧 Для разработчиков
 
-Скачайте или клонируйте репозиторий.  
-Пропишите путь в `mount.cfg`:
-
-```cfg
-"lobby" "C:\Documents\GitHub\The-Lobby\lobby"
-```
+Скачайте или клонируйте репозиторий  
+Укажите путь в **mount.cfg** `"lobby" "F:\The-Lobby\lobby"`
 
 > [!NOTE]
-> Ваш путь может отличаться
+> Путь может отличаться
 
-## 📂 Иерархия папок
+### 🎞️ Компиляция
+Команды для компиляции
 
-Следуйте данной структуре, чтобы всё оставалось организованным и работало корректно.
+**VBSP++**  
+`-CullVerts -BlockSize 2048 -Game $GameDir $Path\$File`
+
+**VVIS++**  
+`-Game $GameDir $Path\$File`
+
+**VRAD++**  
+`-Final -LDR -StaticPropLighting -TextureShadows -AmbientOcclusion -AORadius 32 -AOScale 0.5 -WorldTextureShadows -SupportsLightDirectional -TranslucentShadows -ForceTextureShadows -PropAmbient -DispSampleFactor 2.5 -ExtendedSoftLimits -SupportsLightProjected -Game $GameDir $Path\$File`
+
+### 📂 Иерархия папок
+
+Следуйте данной структуре, чтобы всё оставалось организованным и работало корректно
 
 ```
 The-Lobby/
@@ -139,7 +144,7 @@ The-Lobby/
 │   └── phys_lobby          # Название карты
 ├── materialsrc/        # Исходные (распакованные) текстуры и материалы
 ├── models/             # Упакованные модели
-├── modelsrc/           # Исходные модели (SMD, QC и т.д.)
+├── modelsrc/           # Исходные модели (SMD, QC файлы)
 ├── screenshots/        # Скриншоты во время разработки
 ├── scripts/            # Саундскейпы, цветокоррекция
 └── sound/              # Звуковые файлы
@@ -149,11 +154,14 @@ The-Lobby/
         │   ├── ambient/         # Атмосферные звуки
         │   ├── music/           # Музыкальные треки
         │   ├── sfx/             # Звуковые эффекты
-        │   └── trance/          # Транс/техно музыка, использованная в карте
-        └── used sounds.txt         # Список композиций, использованных в карте
+        │   └── trance/          # Гипноз пасхалка
+        └── used sounds.txt         # Список композиций, использованных на карте
 ```
 
-## 🧰 Консольные команды
+### 🧰 Консольные команды
+
+Полезные консольные команды которые я использую для тестирования карты  
+Думаю вам это будет полезнояё
 
 ```
 snd_show 1                  # Show sounds info
@@ -168,7 +176,7 @@ snd_visualize 1             # Show sounds location in world
 <!-- shields.io -->
 [lang_en]: https://img.shields.io/badge/lang-English%20%F0%9F%87%AC%F0%9F%87%A7-white
 [lang_ru]: https://img.shields.io/badge/%D1%8F%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%F0%9F%87%B7%F0%9F%87%BA-white
-[latest_release]: https://github.com/boxden/The-Lobby/releases/tag/v1.0.1
+[latest_release]: https://github.com/boxden/The-Lobby/releases/tag/v1.1
 [all_releases]: https://github.com/boxden/The-Lobby/releases
 [version_map]: https://img.shields.io/github/v/release/boxden/The-Lobby
 [steamviews]: https://img.shields.io/steam/views/2886996246
@@ -181,10 +189,11 @@ snd_visualize 1             # Show sounds location in world
 [steam_workshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2886996246
 [phys_lobby_compare]: https://all-mods.ru/wp-content/uploads/2022/11/phys_lobby.gif
 [vphysics_gmod_build]: https://github.com/misyltoad/VPhysics-Jolt/releases/download/0.20/vphysics_jolt_0.20_gmod_win64.zip
-[download_latest_map]: https://github.com/boxden/The-Lobby/releases/download/v1.0.1/the_lobby_2886996246.7z
+[download_latest_map]: https://github.com/boxden/The-Lobby/releases/download/v1.1/the_lobby_2886996246.7z
 [author_nicolai]: https://steamcommunity.com/id/nicolai_seven
 [author_nicolai_hl2]: https://steamcommunity.com/sharedfiles/filedetails/?id=767948098
 [author_nicolai_css]: https://steamcommunity.com/sharedfiles/filedetails/?id=2701419409
+[ficool2_tools]: https://ficool2.github.io/HammerPlusPlus-Website/tools.html
 
 <!-- Issues -->
 [#1]: https://github.com/boxden/The-Lobby/issues/1
