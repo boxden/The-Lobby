@@ -1,6 +1,5 @@
-
 # The Lobby
-
+![The Lobby][phys_lobby_compare]
 [![en][lang_en]](README.md)
 [![ru][lang_ru]](README-RU.md)
 [![GitHub Release][version_map]][latest_release]
@@ -13,11 +12,9 @@
 Разрушаемость вдохновлена физическим движком Digital Molecular Matter  
 Оригинальная версия карты была создана в 2010 году [robixn'ом][robixn_showcase_physlobby]
 
-Для комфортной игры рекомендуется использовать
+Для комфортной игры рекомендуется использовать:
 - Версию Garry's Mod: **Chromium x64**
 - Улучшенный физический движок: **VPhysics Jolt**
-
-![The Lobby][phys_lobby_compare]
 
 Название карты: `phys_lobby`  
 Бинд для восстановления карты: `bind <клавиша> gmod_admin_cleanup`  
